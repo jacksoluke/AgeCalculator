@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="age_calculator_text">Age Calculator</string>
+    <string name="enter_your_age_in_years_text">Enter your age in years</string>
+    <string name="calculate_text">Calculate!</string>
+    <string name="your_age_results_text">Your Age Results!</string>
+</resources>
